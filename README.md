@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">📚- Cursando Ciências da Computação<br>⚙️- Engenherio de Software Backend - Pier Seguradora<br>⌛- 4 anos de experiência</h6>
+<h6 align="center">📚- Graduado em Ciência da Computação<br>⚙️- Engenherio de Software Backend - Petlove Tecnologia <br>⌛- 4+ anos de experiência</h6>
 
 ###
 
