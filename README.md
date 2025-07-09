@@ -1,12 +1,12 @@
-<h2 align="center">Olá👋, seja bem vindo!</h2>
+<h2 align="center">Welcome!</h2>
 
 ###
 
-<h5 align="center">Wesley Bortoloso | Backend Software Engineer | Ruby on Rails</h5>
+<h5 align="center">Wesley Bortoloso | Mid Level Backend Software Engineer | Ruby on Rails</h5>
 
 ###
 
-<h6 align="center">📚- Graduado em Ciência da Computação<br>⚙️- Engenherio de Software Backend - Petlove Tecnologia <br>⌛- 4+ anos de experiência</h6>
+<h6 align="center">📚- Graduated in Computer Science <br>⚙️- Mid Level Backend Software Engineer - Petlove Tecnologia <br>⌛- 4+ years working with it</h6>
 
 ###
 
